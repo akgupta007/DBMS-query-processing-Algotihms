@@ -1,7 +1,5 @@
 Please find the sample testcases in respective folders for your testing.
 
-Note: These are small testcases for your debugging purposes. Your code will be tested against larger and more complex inputs. Therefore, you are encouraged to generate your own testcases for rigorous testing.
-
 Binary Search:
 File            	Integer-to-search	expected-output
 search_testcase1	33591551			1, 5
